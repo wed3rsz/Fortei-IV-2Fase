@@ -1,0 +1,61 @@
+body {
+	font: 400 15px/1.8 Lato, sans-serif;
+}
+em{
+	font-size: 30px;
+	color: black;
+	font-family: 'Inconsolata';
+}
+h3, h4 {
+	margin: 10px 0 30px 0;
+	letter-spacing: 10px;      
+	font-size: 40px;
+	color: #111;
+}
+.container {
+	padding: 90px 140px;
+}
+#inscrever_div {
+	background: #73A035;
+	color: #bdbdbd;
+}
+#inscrever_div h3 {color: #fff;
+}
+#inscrever_div p {font-style: italic;
+	color: #fff;
+}
+.btn {
+	padding: 10px 20px;
+	background-color: #fff;
+	color: #000;
+	border-radius: 0;
+	transition: .2s;
+}
+.btn:hover, .btn:focus {
+	border: 4px outset #73A035;
+	background-color: #fff;
+	color: #000;
+}
+.btn_ins {
+	border: 4px outset #fff;
+	padding: 10px 20px;
+	background-color: #fff;
+	color: #000;
+	border-radius: 0;
+	transition: .2s;
+}
+.caixinha {
+	background-color: #73A035;
+	font-family: 'Inconsolata', monospace;
+	margin-left: 275px;
+	margin-right: 275px;
+}
+.caixinha h1,p{
+	color: white;
+}
+.textinho {
+	color: black;
+}
+.text-center{
+	color: #fff;
+}
